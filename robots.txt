@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+Sitemap: https://omijiuno.github.io/ETa/sitemap_index.txt.gz
+Sitemap: https://omijiuno.github.io/pGN/sitemap_index.txt.gz
+Sitemap: https://omijiuno.github.io/pYx/sitemap_index.txt.gz
+Sitemap: https://omijiuno.github.io/sitemap/sitemap_index.txt.gz
+Sitemap: https://omijiuno.github.io/tZu/sitemap_index.txt.gz
+Sitemap: https://omijiuno.github.io/wxW/sitemap_index.txt.gz
